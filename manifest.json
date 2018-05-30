@@ -1,0 +1,14 @@
+{
+  "name": "Microsoft To-Do",
+  "manifest_version": 2,
+  "version": "1.0",
+  "permissions": ["webview", "pointerLock", "geolocation", "videoCapture"],
+  "app": {
+    "background": {
+      "scripts": ["main.js"]
+    }
+  },
+  "icons": {
+    "128": "todo.png"
+  }
+}
