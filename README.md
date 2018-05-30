@@ -1,8 +1,8 @@
 Microsoft To-Do
 ===
-wrapper by Chrome App
+wrapped by Chrome App
 
-![](./screenshot.png)
+![](./screenshots.png)
 
 LICENSE
 ---
